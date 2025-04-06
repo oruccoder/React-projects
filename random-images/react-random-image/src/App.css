@@ -1,0 +1,35 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn{
+    background-color: blue;
+    color: #fff;
+    padding: 20px 45px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 6px;
+    margin-bottom: 30px;
+}
+
+.courseimg{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.coursesimg img{
+    border: 2px solid #252525;
+    width: 500px;
+    height: auto;
+    display: inline-block;
+}
+
+.courseList{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+}
