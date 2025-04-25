@@ -1,4 +1,5 @@
 import './App.css'
+import Course from './components/Course';
 import Courses from './components/Courses';
 import Learn1 from './components/Learn1';
 
@@ -23,7 +24,7 @@ function App() {
       <Course title="Vue" description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam repellendus itaque et, sed unde necessitatibus dolores distinctio! Alias, autem accusantium?" />
       <Course title="Next" description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam repellendus itaque et, sed unde necessitatibus dolores distinctio! Alias, autem accusantium?" /> */}
 
-      <Learn1 />
+      <Course />
 
       
     </>
