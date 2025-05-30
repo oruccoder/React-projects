@@ -1,0 +1,35 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "content": "Möhtəməm Angular Dərsləri sdsadsadsaddasdsa Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia consequuntur doloribus vitae obcaecati, officiis ut nesciunt aliquid inventore. Rem debitis deleniti sint? Veritatis minima impedit, vero obcaecati dicta explicabo at! Sed repudiandae reiciendis eveniet autem? Sint repudiandae dolorem voluptatibus tempora harum atque debitis laudantium qui cumque asperiores quaerat, dolore praesentium eveniet non enim commodi natus porro possimus alias sed beatae?",
+            "title": "Angular",
+            "price": 69
+        },
+
+        {
+            "id": 2,
+            "content": "Möhtəşəm Bootstrap Dərsləri jsdjfhiosdfhso Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia consequuntur doloribus vitae obcaecati, officiis ut nesciunt aliquid inventore. Rem debitis deleniti sint? Veritatis minima impedit, vero obcaecati dicta explicabo at! Sed repudiandae reiciendis eveniet autem? Sint repudiandae dolorem voluptatibus tempora harum atque debitis laudantium qui cumque asperiores quaerat, dolore praesentium eveniet non enim commodi natus porro possimus alias sed beatae?",
+            "title": "Bootstrap",
+            "price": 63
+        },
+        {
+            "id": 3,
+            "content": "Möhtəşəm C Proqramlaşdırma Dərsləri ajdisdiosahdiashdiohaso Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia consequuntur doloribus vitae obcaecati, officiis ut nesciunt aliquid inventore. Rem debitis deleniti sint? Veritatis minima impedit, vero obcaecati dicta explicabo at! Sed repudiandae reiciendis eveniet autem? Sint repudiandae dolorem voluptatibus tempora harum atque debitis laudantium qui cumque asperiores quaerat, dolore praesentium eveniet non enim commodi natus porro possimus alias sed beatae?",
+            "title": "C",
+            "price": 90
+        },
+        {
+            "id": 4,
+            "content": "Möhtəşəm Frontend Proqramlaşdırma Dərsləri ajdisdiosahdiashdiohaso Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia consequuntur doloribus vitae obcaecati, officiis ut nesciunt aliquid inventore. Rem debitis deleniti sint? Veritatis minima impedit, vero obcaecati dicta explicabo at! Sed repudiandae reiciendis eveniet autem? Sint repudiandae dolorem voluptatibus tempora harum atque debitis laudantium qui cumque asperiores quaerat, dolore praesentium eveniet non enim commodi natus porro possimus alias sed beatae?",
+            "title": "Frontend Kursu",
+            "price": 90
+        },
+        {
+            "id": 5,
+            "content": "Möhtəşəm Html Dərsləri ajdisdiosahdiashdiohaso Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia consequuntur doloribus vitae obcaecati, officiis ut nesciunt aliquid inventore. Rem debitis deleniti sint? Veritatis minima impedit, vero obcaecati dicta explicabo at! Sed repudiandae reiciendis eveniet autem? Sint repudiandae dolorem voluptatibus tempora harum atque debitis laudantium qui cumque asperiores quaerat, dolore praesentium eveniet non enim commodi natus porro possimus alias sed beatae?",
+            "title": "Html Kursu",
+            "price": 90
+        }
+    ]
+}

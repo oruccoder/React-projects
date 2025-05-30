@@ -35,6 +35,9 @@ function App() {
       <div className='App'>
         <SearchHeader search={handleClick} />
         <ImageList imagesPlaceholder={images} />
+        {/* {
+        loading ? <p>Yüklənir...</p> : image.length ===0 ? <p>Heç Bir Məlumat Tapılmadı!</p> :<SearchList imageHandle={image} />
+      } */}
       </div>
     </>
   )

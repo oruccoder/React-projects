@@ -1,0 +1,30 @@
+ // Courses
+ 
+ <div className='courseMainDiv'>
+        <div className='myCourses'>Kurslarım</div>
+        <div className='cartDiv'>
+            {
+                courses.map((course) => (
+                    <Course key={course.id} {...course} removeOneCourse={removeOneCourse} />
+                ))
+            }
+        </div>
+    </div>
+
+
+// Course
+
+const Course = ({id,content,title,Price,removeOneCourse}) => {
+  return (
+    <div className='card'>
+        <div className='cartTitlePrice'>
+            <h1 className='cartTitle'>{title}</h1>
+            <h4 className='cardPrice'>{Price} Azn</h4>
+        </div>
+        <p>{content}</p>
+        <button className='cardDeleteBtn' onClick={() => removeOneCourse(id)}>Sil</button>
+    </div>
+  )
+}
+
+export default Course 
